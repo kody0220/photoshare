@@ -4,3 +4,6 @@ class PostsController < ApplicationController
     @posts = Post.all
   end
 end
+
+
+aa
